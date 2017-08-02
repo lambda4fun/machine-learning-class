@@ -4,6 +4,9 @@
 
 - [Single-layer Neural Networks (Perceptrons)](https://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html)
 - [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)
+
+**CAUTION: NOT HTTPS**
+- [Single-layer Perceptron](http://www.cogconfluence.com/wp-content/uploads/2013/12/notes.pdf) (PDF)
 - [Lecture 2: Single Layer Perceptrons](http://www.cs.stir.ac.uk/courses/ITNP4B/lectures/kms/2-Perceptrons.pdf) (PDF)
 
 ## YouTube

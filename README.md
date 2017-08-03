@@ -8,7 +8,7 @@ The following books are selected from [free-programming-books](https://github.co
 - **[HTTP]** [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks#a_brief_introduction_to_neural_networks)
 - **[HTTP]** [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
 
-## Single-layer Perceptron
+## Perceptron
 
 - [Single-layer Neural Networks (Perceptrons)](https://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html)
 - [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)

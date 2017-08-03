@@ -26,7 +26,7 @@ The following books are selected from [free-programming-books](https://github.co
   - [Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
   - [Gradient descent - Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
 
-### Multilayer Neural Network
+## Multilayer Neural Network
 
 - [Multilayer perceptron - Wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Backpropagation - Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)

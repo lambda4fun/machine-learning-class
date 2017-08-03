@@ -13,10 +13,10 @@ The following books are selected from [free-programming-books](https://github.co
 - [Single-layer Neural Networks (Perceptrons)](https://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html)
 - [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)
 
-- **[HTTP]** [Introduction to Engineering Computation](http://www.cogconfluence.com/caam-210/)
-  - **[HTTP]** [Single-layer Perceptron](http://www.cogconfluence.com/wp-content/uploads/2013/12/notes.pdf) (PDF)
 - **[HTTP]** [Computing and the Brain](http://www.cs.stir.ac.uk/courses/ITNP4B/lectures/)
   - **[HTTP]** [Lecture 2: Single Layer Perceptrons](http://www.cs.stir.ac.uk/courses/ITNP4B/lectures/kms/2-Perceptrons.pdf) (PDF)
+- **[HTTP]** [Introduction to Engineering Computation](http://www.cogconfluence.com/caam-210/)
+  - **[HTTP]** [Single-layer Perceptron](http://www.cogconfluence.com/wp-content/uploads/2013/12/notes.pdf) (PDF)
 
 - YouTube
   - [10: Neural Networks - The Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) by The Coding Train

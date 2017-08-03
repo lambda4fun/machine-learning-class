@@ -24,3 +24,4 @@ The following books are selected from [free-programming-books](https://github.co
 - Wikipedia
   - [Feedforward neural network - Wikipedia](https://en.wikipedia.org/wiki/Feedforward_neural_network)
   - [Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
+  - [Gradient descent - Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)

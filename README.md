@@ -24,11 +24,11 @@ The following books are selected from [free-programming-books](https://github.co
 - Wikipedia
   - [Feedforward neural network - Wikipedia](https://en.wikipedia.org/wiki/Feedforward_neural_network)
   - [Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
-  - [Gradient descent - Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
 
 ## Multilayer Neural Networks
 
 - [Multilayer perceptron - Wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Backpropagation - Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
+- [Gradient descent - Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
 - [Deep learning - Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
 

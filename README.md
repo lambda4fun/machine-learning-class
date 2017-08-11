@@ -59,4 +59,4 @@ to
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
 
-4. Open `dist/index.html` in web browser
+4. Open `dist/index.html` in your browser

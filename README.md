@@ -46,11 +46,11 @@ $ cd playground
 $ git checkout tensor
 ```
 
-2. Download [material icon fonts](https://github.com/lambda4fun/machine-learning-class/releases/download/material-icon-fonts/material-icon-fonts.zip) and extract it to `dist` directory.
+2. Download [material icon fonts](https://github.com/lambda4fun/machine-learning-class/releases/download/material-icon-fonts/material-icon-fonts.zip) and extract it into `dist` directory.
 
 3. Replace
 
-`dist/index.html` - line 40
+`dist/index.html` line 40
 ```css
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet" type="text/css">
 ```

@@ -37,7 +37,23 @@ The following books are selected from [free-programming-books](https://github.co
 
 http://playground.tensorflow.org
 
-1. `$ git clone https://github.com/tensorflow/playground.git`
-2. `$ cd playground`
-3. `$ git checkout tensor`
-4. `Open dist/index.html in web browser`
+### Run it locally
+
+1. Download playground
+```shell
+$ git clone https://github.com/tensorflow/playground.git`
+$ cd playground
+$ git checkout tensor
+```
+2. Open `dist/index.html` in web browser
+3. Download fonts
+4. Replace
+
+index.html - line 40
+```css
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet" type="text/css">
+```
+to
+```css
+  <link href="./fonts.css" rel="stylesheet" type="text/css">
+ ```

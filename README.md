@@ -54,7 +54,7 @@ $ git checkout tensor
 ```css
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet" type="text/css">
 ```
-to
+with
 ```css
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```

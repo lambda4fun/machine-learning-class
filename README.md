@@ -46,7 +46,7 @@ $ cd playground
 $ git checkout tensor
 ```
 
-2. Download [material icon fonts](https://github.com/lambda4fun/machine-learning-class/releases/download/material-icon-fonts/material-icon-fonts.zip) and extract it into `dist` directory.
+2. Download [material icon fonts](https://github.com/lambda4fun/machine-learning-class/releases/download/material-icon-fonts/material-icon-fonts.zip) and extract it into `dist` directory
 
 3. Replace
 
@@ -59,4 +59,4 @@ to
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
 
-4. Open `dist/index.html` in web browser.
+4. Open `dist/index.html` in web browser

@@ -45,9 +45,8 @@ $ git clone https://github.com/tensorflow/playground.git`
 $ cd playground
 $ git checkout tensor
 ```
-2. Open `dist/index.html` in web browser
-3. Download fonts
-4. Replace
+2. Download fonts
+3. Replace
 
 index.html - line 40
 ```css
@@ -55,5 +54,6 @@ index.html - line 40
 ```
 to
 ```css
-  <link href="./fonts.css" rel="stylesheet" type="text/css">
+  <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
+4. Open `dist/index.html` in web browser

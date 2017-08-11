@@ -32,3 +32,12 @@ The following books are selected from [free-programming-books](https://github.co
 - [Gradient descent - Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
 - [Deep learning - Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
 
+
+## A Neural Network Playground
+
+http://playground.tensorflow.org
+
+1. `$ git clone https://github.com/tensorflow/playground.git`
+2. `$ cd playground`
+3. `$ git checkout tensor`
+4. `Open dist/index.html in web browser`

@@ -41,14 +41,16 @@ http://playground.tensorflow.org
 
 1. Download playground
 ```shell
-$ git clone https://github.com/tensorflow/playground.git`
+$ git clone https://github.com/tensorflow/playground.git
 $ cd playground
 $ git checkout tensor
 ```
-2. Download fonts
+
+2. Download [material icon fonts](https://github.com/lambda4fun/machine-learning-class/releases/download/material-icon-fonts/material-icon-fonts.zip) and extract it to `dist` directory.
+
 3. Replace
 
-index.html - line 40
+`dist/index.html` - line 40
 ```css
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet" type="text/css">
 ```
@@ -56,4 +58,5 @@ to
 ```css
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
-4. Open `dist/index.html` in web browser
+
+4. Open `dist/index.html` in web browser.

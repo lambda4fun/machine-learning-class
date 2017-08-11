@@ -59,6 +59,6 @@ with
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
 
-4. Remove `dist/index.html` line 399-408 or the browser keeps loading some time
+4. Remove `dist/index.html` line 399-408 (Google analytics) or the browser keeps loading some time
 
 5. Open `dist/index.html` in your browser

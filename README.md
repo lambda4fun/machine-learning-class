@@ -59,4 +59,6 @@ with
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
 
-4. Open `dist/index.html` in your browser
+4. Remove `dist/index.html` line 399-408 or the browser keeps loading page some time
+
+5. Open `dist/index.html` in your browser

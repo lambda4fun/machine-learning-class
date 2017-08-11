@@ -51,11 +51,11 @@ $ git checkout tensor
 3. Replace
 
 `dist/index.html` line 40
-```css
+```html
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet" type="text/css">
 ```
 with
-```css
+```html
   <link href="fonts.css" rel="stylesheet" type="text/css">
  ```
 

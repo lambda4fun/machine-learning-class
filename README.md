@@ -8,6 +8,12 @@ The following books are selected from [free-programming-books](https://github.co
 - **[HTTP]** [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks#a_brief_introduction_to_neural_networks)
 - **[HTTP]** [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
 
+## Interesting Applications
+
+- [MarI/O - Machine Learning for Video Games - YouTube](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+- [Evolving Neural Networks to Play 2048 - YouTube](https://www.youtube.com/watch?v=jsVnuw5Bv0s)
+- [Artificial intelligence - solving of 15 puzzle - YouTube](https://www.youtube.com/watch?v=4IoiGOCa0VU)
+
 ## Perceptron
 
 - [Single-layer Neural Networks (Perceptrons)](https://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html)
